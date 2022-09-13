@@ -1,0 +1,22 @@
+{
+  "name": "creative-code",
+  "version": "1.0.0",
+  "description": "creative code projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brienjl/creative-code.git"
+  },
+  "author": "jeremy brien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brienjl/creative-code/issues"
+  },
+  "homepage": "https://github.com/brienjl/creative-code#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6"
+  }
+}
