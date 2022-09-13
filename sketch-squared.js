@@ -8,12 +8,12 @@ const settings = {
 
 const sketch = () => {
   return ({ context, width, height }) => {
-    context.fillStyle = '554994';
+    context.fillStyle = 'CDF0EA';
     context.fillRect(0, 0, width, height);
-    context.lineWidth = width * .5;
+    context.lineWidth = width * .015;
     context.strokeStyle = '#ECC5FB';
-    context.shadowBlur = 75;
-    context.shadowColor = "554994";
+    context.shadowBlur = 50;
+    context.shadowColor = "541690";
 
     const w = width * 0.10;
     const h = height * 0.10;
@@ -32,7 +32,7 @@ const sketch = () => {
         context.rect(x, y, w, h);
         context.stroke();
 
-        if (i > 0 && i < 5 && j > 0 && j < 5) {
+        if (Math.random() < .5) {
             context.beginPath();
             context.rect( x + offset /2, y + offset /2, w - offset, h - offset );
             context.stroke();
