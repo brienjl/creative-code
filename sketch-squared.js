@@ -8,12 +8,12 @@ const settings = {
 
 const sketch = () => {
   return ({ context, width, height }) => {
-    context.fillStyle = 'CDF0EA';
+    context.fillStyle = 'F806CC';
     context.fillRect(0, 0, width, height);
     context.lineWidth = width * .015;
-    context.strokeStyle = '#ECC5FB';
-    context.shadowBlur = 50;
-    context.shadowColor = "541690";
+    context.strokeStyle = '#2E0249';
+    context.shadowBlur = 35;
+    context.shadowColor = "2E0249";
 
     const w = width * 0.10;
     const h = height * 0.10;
