@@ -1,7 +1,7 @@
 # Jeremy Brien
 |                |      |
 |---------------:|-----:|
-| home           |[squared](project-squared.md)
+| home           |[squared](project-squared.md)|
 
 
 
