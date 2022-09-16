@@ -1,4 +1,5 @@
 # Project Squared
+
 My first project with creative code. Dynamically drawing squares with randomized thickness. I took this a step further and added some interesting colors and shadows within the color family to create the illusion of contrasting colors for each square that is randomly "thicker." 
 
 | | | |
