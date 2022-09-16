@@ -1,10 +1,17 @@
 # creative-code
+<nav>
+    <a href = brienjl.github.io/creative-code/page2.md>squared</a>
+</nav>
 
 
-| | | |
-|-|-|-|
-|![squared-fall](my-sketches/squared-fall.png)|![squared-mario](my-sketches/squared-mario.png)|![squared-OG](my-sketches/squared.png)|
-|![squared-retro](my-sketches/squared-retro.png)|![squared-pink](my-sketches/squared-pink-is-the-new-black.png)|![squared-fall-leaves](my-sketches/squared-fall-leaves.png)
+
+
+|                |      |
+|---------------:|-----:|
+[squared](page2.md) | link |
+
+
+
 
 
 
