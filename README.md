@@ -1,14 +1,7 @@
-# creative-code
-<nav>
-    <a href = brienjl.github.io/creative-code/page2.md>squared</a>
-</nav>
-
-
-
-
+# Jeremy Brien
 |                |      |
 |---------------:|-----:|
-[squared](page2.md) | link |
+| home           |[squared](project-squared.md)
 
 
 
