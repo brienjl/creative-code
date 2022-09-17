@@ -1,6 +1,19 @@
 # Project Squared
+<details><summary> 🧭 Explore Projects</summary>
 
-My first project with creative code. Dynamically drawing squares with randomized thickness. I took this a step further and added some interesting colors and shadows within the color family to create the illusion of contrasting colors for each square that is randomly "thicker." 
+|                |            |
+|---------------:|-----------:|
+| [**home**](README.md)|[squared](project-squared.md)|
+
+</details>
+
+---
+
+## Title: iWrite Pretty Angles
+
+--- 
+
+Dynamically drawing squares with randomized thickness. I experimented with color palettes and shadows to create the illusion of contrasting colors for each square that is randomly "thicker." For example. 
 
 | | | |
 |-|-|-|
@@ -8,3 +21,13 @@ My first project with creative code. Dynamically drawing squares with randomized
 |![squared-retro](my-sketches/squared-retro.png)|![squared-pink](my-sketches/squared-pink-is-the-new-black.png)|![squared-fall-leaves](my-sketches/squared-fall-leaves.png)
 
 ## Implementation
+```js
+//randomized rectangle sizes
+if (Math.random() < .5) 
+{
+    context.beginPath();
+    context.rect( x + offset /2, 
+        y + offset /2,
+        w - offset, h - offset );
+    context.stroke();
+}
