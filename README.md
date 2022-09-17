@@ -3,8 +3,7 @@
 
 |                |            |
 |---------------:|-----------:|
-|[squares](/squares.html)|[squared](project-squared.md)|
-
+|[squares](/squares.html) | [squared](project-squared.md)|
 
 </details>
 
