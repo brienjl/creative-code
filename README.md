@@ -1,11 +1,7 @@
 # Generative Art Projects
-<details><summary> 🧭 Explore Projects</summary>
-
 |                |            |
 |---------------:|-----------:|
-|[squares](/squares.html) | [squared](project-squared.md)|
-
-</details>
+|[squared](project-squared.md)| [watch faces](watch-faces.md) |
 
 ---
 
